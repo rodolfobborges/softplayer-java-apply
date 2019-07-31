@@ -1,0 +1,34 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "br.com.softplan.uaa"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "br.com.softplan.uaa",
+    "packageFolder": "br/com/softplan/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Mjk4NjZjOTU2M2I2ZTMzN2Q3ZTFiZTAwZGJmZDc3ZDMyN2I2OTRjNDY0ZGUwZWExODQzZTJlZDlmYmU0YWVmOTdmMzE4YTdjYWY5YjEyYmM0YTVhZTI3MGIwMzIwMTFjM2EzOWI0NGZmZjdjN2RkMTYwZjVlMmM4NjczZDAzMzE=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true
+  }
+}

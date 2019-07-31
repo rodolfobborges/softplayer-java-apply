@@ -1,0 +1,14 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "gateway",
+      "peopleregistrationservice",
+      "uaa"
+    ],
+    "directoryPath": "../",
+    "gatewayType": "zuul",
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "OGI3OTI1MTYwOWIzMWY5MWJkMmE4NDYyZTE5Y2U4Yzg3ZDM0ZDgxOTdiN2Q5M2VkZDFmZWZiYjM2MzRlMzU5Nzk5MmJjZDRkNzE1NWM0ZjY1MTZmYmVjYjczOTk0NmRkYzg4MQ=="
+  }
+}

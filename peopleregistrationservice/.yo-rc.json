@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "br.com.softplan.peopleregistrationservice"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "microservice",
+    "baseName": "peopleregistrationservice",
+    "packageName": "br.com.softplan.peopleregistrationservice",
+    "packageFolder": "br/com/softplan/peopleregistrationservice",
+    "serverPort": "8081",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDI3MWUxNjYzODNmNDRmZmJmYWNiNjEwNDg2OTBmM2I3MTkwNTYyMTNiZTMyOTExMWQwNGYwYWE2ZGU4ZmE4MTMxYmYxZDgyZTIwZjBmYTc5NDUwYmM3NTg4ZmMyOGNiOTg3M2Y3YmMzY2JiMGJiM2MzMDAwYjhkODVhNDMzZGM=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
